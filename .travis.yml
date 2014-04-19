@@ -1,0 +1,8 @@
+---
+rvm: 
+  - 2.0.0
+env:
+  - PUPPET_VERSION=3.4.3
+  - PUPPER_VERSION=3.5.1
+matrix:
+  fast_finish: true
